@@ -1,4 +1,4 @@
-You should be able to run this program by opening a terminal:
+You should be able to run this program by opening a terminal and running:
 python3 historical_data_generation.py
 
 And then opening another terminal and running:
